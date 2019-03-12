@@ -166,24 +166,3 @@
 #bmiOutput{
     font-size: large;
 }
-/* footer */
-.fa-facebook:hover{
-    cursor: pointer;
-    color:#3b5998;
-}
-.fa-twitter:hover{
-    cursor: pointer;
-    color:#1DA1F2;
-}
-.fa-google-plus:hover{
-    cursor: pointer;
-    color:#DB4437;
-}
-.fa-snapchat:hover{
-    cursor: pointer;
-    color:#fffc00;
-}
-.fa-youtube:hover{
-    cursor: pointer;
-    color:#ff0000;
-}

@@ -2,38 +2,7 @@ body{
     font-family: 'Lato', sans-serif;
 }  
 
-.navbar{
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
-}
-.navbar-brand{
-    height: 60px;
-    width: 80px;
-    font-size: 25px;
-    margin: 0px;
-    margin-left: 25px;
-}
-.nav-item:first-child{
-    font-size: 38px;
-    margin-left: 40px;
-}
-.nav-item:nth-child(2){
-    margin-left: 600px;
-    padding-top: 20px;
-}
-.nav-item:nth-child(3){
-    padding-top: 20px;
-     /* margin-left: 450px;  */
-}
-.nav-item:nth-child(2):hover{
-    font-weight: bold;
-    text-decoration: underline;
-}
 
-#route-space{
-    padding-left: 10px;
-}
 /* training */
 #training{
     padding-top: 40px;
@@ -184,27 +153,5 @@ body{
 #services p{
     padding-top: 10px;
     font-size: 18px;
-}
-
-/* footer */
-.fa-facebook:hover{
-    cursor: pointer;
-    color:#3b5998;
-}
-.fa-twitter:hover{
-    cursor: pointer;
-    color:#1DA1F2;
-}
-.fa-google-plus:hover{
-    cursor: pointer;
-    color:#DB4437;
-}
-.fa-snapchat:hover{
-    cursor: pointer;
-    color:#fffc00;
-}
-.fa-youtube:hover{
-    cursor: pointer;
-    color:#ff0000;
 }
 
